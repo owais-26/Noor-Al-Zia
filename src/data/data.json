@@ -1,0 +1,324 @@
+{
+  "Header": {
+    "title": "Expert in Repair/Retrofit of Industrial Machines",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "Noor Al Zia Electronics is an Industrial Automation and Process Control solution provider company with a highly efficient work force. We constantly scan the globe for the latest technology to provide the most suitable products to the local industry. We deliver the right product to your application problem. Our expertise Lies with PLC Automation, HMI Designing, Multi axis Motion Controlling, Synchronizing Robotic Process Lines and CNC Retrofitting which give us an edge over our competitors.  Noor Al Zia Electronics Technical Service Team works with you to review your new requirements, evaluate processes, and offer upgrading and rebuilding ideas to keep your machines running. We improve your machine efficiency, increase productivity and uptime to help you achieve your output goals.  Noor Al Zia Electronics also offers training on the upgraded experiment for your company as well as our parts and services program keeps your machines working at peak performance.",
+    "Why": [
+      "One Shop solution for all Factory and Process Control needs.",
+      "Products supply with Service and know-how knowledge.",
+      "Onsite Installation & Commissioning support.",
+      "Free of cost Problem Analysis and Proposal."
+    ],
+    "Why2": [
+      "Support Machine Installation.",
+      "Start up and running of Production Processess and MAE Release Support.",
+      "Handle small project improvement to increase machine efficiency.",
+      "Perform problem analysis and improvement activities."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/10-small.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/11-small.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/12-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "service1.jpg",
+      "name": "INDUSTRIAL MACHINERY REPAIR AND RETROFITTING",
+      "text": "We specialize in repairing and retrofitting a wide range of Industrial as well as CNC Machines of High Speed and Precision Filling Printing Processing Packaging and Manufacturing category from linear single-axis systems to complex multi-9-axis gantry control systems."
+    },
+    {
+      "icon": "service2.jpg",
+      "name": "NEW AND ALTERNATIVE SOLUTIONS FOR NON-REPAIRABLE EQUIPMENT",
+      "text": "We are experts in designing of custom PLC & IPC HMI-based automated systems and CNC machines for Obsolete or non-repairable CNC and industrial control systems by replacing whole Control system along with drives, motors, hydraulic and pneumatic systems for making your valuable machine work like NEW with most efficient and cost-effective solution in order to make our client Satisfied with our innovative new solution. Our expertise lies in providing alternative solutions to ensure continuous operational efficiency of your factory"
+    },
+    {
+      "icon": "service3.jpg",
+      "name": "INDUSTRIAL AUTOMATION SERVICES",
+      "text": "We cater to the design and implementation of PLC PC-based automated systems for industrial machines. Our Repair and NEW Installations services cover a wide range of components including PLCs, VFDs, HMIs, Encoders, Resolvers, Linear Scales, DROs, Power Supplies, Inverters, Axis & Motion Control Cards, Safety Controllers, Touch Panels, Monitors, Edge controllers, PID Temperature controllers, High Speed Counters, RTD modules, DC Drives and Motors, Servo Drives, Servo Valves, Servo Motors, Stepper Drives and Motors, Spindle Drives and Motors, Hydraulic & Pneumatic Valves, Pumps, Cylinders  and Solenoids."
+    },
+    {
+      "icon": "service4.jpg",
+      "name": "Diverse Industrial Machinery Solutions",
+      "text": "Annual Maintenance Contract for All Industrial Machines\nSCADA & DCS Designing\nIIOT System Development\nPLC programming\nHMI designing\nDrive configuration\nIC programming"
+    }
+    
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  
+  "Features": [
+    {
+      "icon": "img/plc.jpg",
+      "title": "Programmable Logic Controller",
+      "subcategories": [
+        "Hybrid Controllers",
+        "Digital I/O Extensions",
+        "RTD modules",
+        "Analog I/O Extensions",
+        "Modular PLCs",
+        "PLC Racks",
+        "Compact PLCs",
+        "IIOT Modules"
+      ]
+    },
+    {
+      "icon": "img/hmi.jpg",
+      "title": "Human Machine Interface",
+      "subcategories": [
+        "Keypads",
+        "Displays",
+        "Touch panels",
+        "Industrial PC",
+        "Operator Panel"
+      ]
+    },
+    {
+      "icon": "img/idm.jpg",
+      "title": "Industrial Drives & Motors",
+      "subcategories": [
+        "AC Motors 1 phase ",
+        "AC Motors 3 Phase ",
+        
+        "Spindles",
+        
+      
+        "DC Motor",
+        "Servo Motors ",
+        
+       
+        "Stepper Motors ",
+        "VFD",
+        "Soft Staters",
+        "VSD",
+        "DC Drive",
+        "Servo Drives",
+        "Stepper Drives"
+        
+      ]
+    },
+    {
+      "icon": "img/cncc.jpg",
+      "title": "CNC Controllers",
+      "subcategories": [
+        "Motion Control Cards",
+        "Multi Axis Control Cards",
+        "Edge Controller"
+      ]
+    },
+    {
+      "icon": "img/mv.jpg",
+      "title": "Machine Vision",
+      "subcategories": [
+        "High Speed Precision Camera",
+        "High Speed Image Capturing controller"
+      ]
+    },
+    {
+      "icon": "img/sensor.jpg",
+      "title": "Sensors",
+      "subcategories": [
+        "Encoders",
+        "Proximity",
+        "Heaters",
+        "Resolvers",
+        "Photoelectric",
+        "Pressure",
+        "Linear scales",
+        "Ultrasonic",
+        "Safety Sensors",
+        "PID",
+        "Temperature",
+        "RTDs",
+        "Thermocouples",
+        "RPM",
+        "Energy Analyzers",
+        "Protective Relays"
+      ]
+    },
+    {
+      "icon": "img/scada.jpg",
+      "title": "SCADA & IIOT Solutions",
+      "subcategories": [
+        "SCADA Software with Commissioning",
+        "DCS Software with Commissioning",
+        "IIOT Software with Commissioning"
+      ]
+    },
+    {
+      "icon": "img/electronic.jpg",
+      "title": "Electronics Parts",
+      "subcategories": [
+        "IGBts","Bridge",
+        "Microprocessors",
+        "ICs",
+        "Transistors",
+        "Microcontrollers",
+        "Diodes",
+        "SCR"
+      ]
+    },
+    {
+      "icon": "img/electrical.jpg",
+      "title": "Electrical Panel Accessories",
+      "subcategories": [
+        "Contactors",
+        "Overloads",
+        "Breakers",
+        "Buttons",
+        "Power Supply's",
+        "Lights",
+        "UPS",
+        "Protection Relays"
+      ]
+    },
+    {
+      "icon": "img/pneumatic.jpg",
+      "title": "Pneumatic & Instrumentation",
+      "subcategories": [
+        "PNEUMATIC Cylinders",
+        "PNEUMATIC Valves",
+        "PNEUMATIC Fittings"
+      ]
+    },
+    {
+      "icon": "img/hydraulic.jpg",
+      "title": "Hydraulic Products",
+      "subcategories": [
+        "HYDRAULIC Cylinders",
+        "HYDRAULIC Valves",
+        "HYDRAULIC Fittings"
+      ]
+    },
+    {
+      "icon": "img/bearings.jpg",
+      "title": "Bearings",
+      "subcategories": [
+        "Spindle High Speed Bearing",
+        "CNC Machine Bearing",
+        "Motor Bearing",
+        "Fan Bearing"
+      ]
+    }
+  ]
+  }
+  
